@@ -28,3 +28,10 @@ h1 {
 .lead{
   font-size: 21px;
 }
+
+body{
+  color :#414141;
+  font-size: 18px;
+  line-height: 1.6;
+  font-family: 'PT Serif', serif;
+}
